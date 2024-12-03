@@ -1,0 +1,1 @@
+// This file should be removed as its functionality is now in BeforeAfterChat.tsx
